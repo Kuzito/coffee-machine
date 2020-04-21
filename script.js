@@ -95,7 +95,7 @@ function paintBody(color) {
 
 /*let coffeeMachine = document.querySelector('.coffee-machine');
 coffeeMachine.style.position = "absolute";*/
-
+/*
 let interval = setInterval(trashConsole, 1000);  //повторяет выполнение функции через интервал (у нас каждую 1сек)
 
 let changeButton = document.querySelector(".btn");
@@ -106,7 +106,7 @@ changeButton.onclick = function () {
 function trashConsole() {
   console.log(Math.random());
 }
-
+*/
 
 
 
