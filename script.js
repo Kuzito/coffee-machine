@@ -108,5 +108,9 @@ function trashConsole() {
 }
 */
 
-
+  //changeBox.append(coin);  //добавляет монетку в конец внутри элемента
+  //changeBox.prepend(coin); //добавляет монетку в начало внутри элемента
+  //changeBox.before(coin);  //перед элементом
+  //changeBox.after(coin);  //после элемента
+  //changeBox.replaceWith(coin);  //заменяет элемент
 
